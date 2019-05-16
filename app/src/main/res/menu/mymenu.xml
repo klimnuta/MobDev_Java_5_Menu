@@ -29,7 +29,19 @@
         <item
             android:id="@+id/menu_exit"
             android:orderInCategory="4"
-            android:title="exit">
+            android:title="Выход">
         </item>
     </group>
+    <item
+        android:id="@+id/menu_new"
+        android:title="Новая игра">
+    </item>
+    <item
+        android:id="@+id/menu_l1"
+        android:title="Уровень 1">
+    </item>
+    <item
+        android:id="@+id/menu_l2"
+        android:title="Уровень 2">
+    </item>
 </menu>
